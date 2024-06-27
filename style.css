@@ -1,0 +1,79 @@
+.cabeçalho1 {
+    display: flex;
+    justify-content: center;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 42px;
+    color: #107300;
+}
+
+.imagem1 {
+    display: block;
+    margin: auto;
+    height: 330px;
+}
+
+.mercearia1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: #DC7516;
+    margin: 5px;
+}
+
+.açougue1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: #F119F5;
+    margin: 5px;
+}
+
+.higiene_pessoal1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: #E73434;
+    margin: 5px;
+}
+
+.feira1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: #BECD12;
+    margin: 5px;
+}
+
+.Produtos_de_limpeza1 {
+    display: flex;
+    justify-content: flex-start;
+    font-family: "Inter", sans-serif;
+    font-weight: 200;
+    font-size: 35px;
+    color: #273DFF;
+    margin: 5px;
+}
+.itens1{
+    color: #DC7516;
+}
+.itens2{
+    color: #F119F5;
+}
+.itens3{
+    color: #E73434 ;
+}
+.itens4{
+    color: #BECD12;
+}
+.itens5{
+    color: #273DFF;
+}
